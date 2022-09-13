@@ -6,7 +6,7 @@
 - 🥁 &nbsp;Drummer
 - 🪐 &nbsp;Star Wars Enthusiast
 - 🏌‍♀ &nbsp;Golfer
-- 🎓 &nbsp;BS. Software Engineering, BS. Information Systems; Miami University, Oxford OH
+- 🎓 &nbsp;BS. Software Engineering, BS. Business Information Systems; Miami University, Oxford OH
 
 ### 🛠 &nbsp;Tech Stack
 
