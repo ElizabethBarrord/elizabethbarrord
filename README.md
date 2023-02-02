@@ -25,13 +25,5 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/elizabeth-barrord/"><img src="https://img.shields.io/badge/-Elizabeth%20Barrord%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:elizabethbarrord@github.com"><img src="https://img.shields.io/badge/-elizabethbarrord@github.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p> 
-
 <!--
 **ElizabethBarrord/elizabethbarrord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
